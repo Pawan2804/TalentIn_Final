@@ -1,0 +1,36 @@
+
+.botnav{
+    float: bottom;
+    background-color: #111;
+    display: inline-block;
+    width: 100%;
+    height: 200px;
+}
+
+/* Style the topnav links */
+.botnav a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px 14px;
+    text-decoration: none;
+    display: block;
+}
+
+.bnleft{
+   width: 30%;
+  float: left;
+}
+.bnmid{
+   width: 40%;
+  float: left;
+}
+.bnright{
+   width: 20%;
+  float: right;
+}
+
+#bnimg{
+  width: 75%;
+  padding: 50px;
+}
+
